@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python open cv
 - 💞️ I’m looking to collaborate on any kind of open cv projects
-- 📫 How to reach meatifchaudhary24@yahoo.com
+- 📫 How to reach atifchaudhary24@yahoo.com
